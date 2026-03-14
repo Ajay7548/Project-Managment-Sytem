@@ -2,6 +2,8 @@
 
 A full-stack project management application built with a **Node.js/Express (MVC)** backend and a **React/Vite (Tailwind CSS)** frontend. It uses **MongoDB** as its database.
 
+Live Preview (https://project-managment-sytem.vercel.app/)
+
 ## Features
 - **Projects**: Create, list, view, and delete projects (with cascading deletion of tasks).
 - **Tasks**: Add, edit, filter (by status), sort (by due date), and delete tasks associated with a project.
